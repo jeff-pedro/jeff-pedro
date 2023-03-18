@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning Back-End Programming with NodeJS
 - 😄 Pronouns: he/him
 
+<div>
+ [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&theme=dark)](https://github.com/jeff-pedro/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro)](https://github.com/jeff-pedro/github-readme-stats)
+</div>
+
 <div> 
  <a href="https://discord.gg/jeffersonsantos#5455" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jeffersonpedro89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
