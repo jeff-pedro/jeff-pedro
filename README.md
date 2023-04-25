@@ -1,15 +1,17 @@
-### Hi there 👋 I'm (Jeff)erson Pedro
+### Hi there 👋 I'm ( Jeff )<sub>erson</sub> P<sub>edro</sub>
 
 - 🔭 I’m currently working on DevOps/Systems Operation
 - 🌱 I’m currently learning Back-End Programming with NodeJS
 - 😄 Pronouns: he/him
 
-<!-- [![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox)](https://github.com/jeff-pedro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&layout=compact)](https://github.com/jeff-pedro/github-readme-stats) -->
-
+<!-- [![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox)](https://github.com/jeff-pedro/github-readme-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&layout=compact)](https://github.com/jeff-pedro/github-readme-stats)
+ -->
+  
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox" />
-<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" /></div>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&custom_title=GitHub%20Stats" />
+  <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" />
 </div>
   
 ##
