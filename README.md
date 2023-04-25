@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning Back-End Programming with NodeJS
 - 😄 Pronouns: he/him
 
-[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&theme=dark)](https://github.com/jeff-pedro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&theme=dark)](https://github.com/jeff-pedro/github-readme-stats)
+<!-- [![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox)](https://github.com/jeff-pedro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&layout=compact)](https://github.com/jeff-pedro/github-readme-stats) -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox" />
+<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" /></div>
+</div>
+  
 ##
 
 <div> 
