@@ -1,0 +1,138 @@
+{
+  "name": "Node.js",
+  "expertises": [
+    {
+      "name": "Node.js Jr",
+      "cards": [
+        {
+          "id": "javascript-fundamentals"        
+        },
+        {
+          "id": "nodejs-fundamentals"
+        },
+        {
+          "id": "javascript-callbacks-promises"
+        },
+        {
+          "id": "javascript-errorhandling"
+        },
+        {
+          "id": "oop-concepts"
+        },
+        {
+          "id": "nodejs-testing"
+        }
+      ]
+    },
+    {
+      "name": "Node.js mid",
+      "cards": [
+        {
+          "id": "solid",
+          "priority": 7
+        },
+        {
+          "id": "nodejs-express",
+          "priority": 9
+        },
+        {
+          "id": "nodejs-orm",
+          "priority": 8
+        },
+        {
+          "id": "nodejs-authentication-tokens",
+          "priority": 8
+        },
+        {
+          "id": "typescript-fundamentals",
+          "priority": 10
+        }
+      ]
+    },
+    {
+      "name": "Node.js in depth",
+      "cards": [
+        {
+          "id": "nestjs-fundamentals",
+          "priority": 8
+        },
+        {
+          "id": "microservices",
+          "priority": 8
+        },
+        {
+          "id": "containers",
+          "priority": 7
+        },
+        {
+          "id": "websockets",
+          "priority": 7
+        },
+        {
+          "id": "graphql",
+          "priority": 6,
+          "optional": true
+        },
+        {
+          "id": "apollo-client",
+          "priority": 6,
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Infraestrutura e boas práticas",
+      "cards": [
+        {
+          "id": "git-and-github-fundamentals",
+          "priority": 10
+        },
+        {
+          "id": "http-fundamentals",
+          "priority": 9
+        },
+        {
+          "id": "design-patterns",
+          "priority": 7
+        },
+        {
+          "id": "command-line-fundamentals",
+          "priority": 7
+        },
+        {
+          "id": "cloud-fundamentals",
+          "priority": 6,
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Front-end",
+      "cards": [
+        {
+          "id": "html-fundamentals",
+          "priority": 10
+        },
+        {
+          "id": "css-fundamentals",
+          "priority": 9
+        },
+        {
+          "id": "dom-fundamentals",
+          "priority": 8
+        },
+        {
+          "id": "javascript-accessibility",
+          "priority": 7
+        },
+        {
+          "id": "seo-strategies",
+          "priority": 6,
+          "optional": true
+        }
+      ]
+    }
+  ]
+}
