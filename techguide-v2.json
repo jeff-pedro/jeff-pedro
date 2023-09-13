@@ -2,31 +2,25 @@
   "name": "Node.js",
    "expertise": [
     {
-      "name": "Node.js jr",
+      "name": "Node.js Jr",
       "cards": [
         {
-          "id": "javascript-fundamentals",
-          "priority": 10
+          "id": "javascript-fundamentals"        
         },
         {
-          "id": "nodejs-fundamentals",
-          "priority": 10
+          "id": "nodejs-fundamentals"
         },
         {
-          "id": "javascript-callbacks-promises",
-          "priority": 9
+          "id": "javascript-callbacks-promises"
         },
         {
-          "id": "javascript-errorhandling",
-          "priority": 7
+          "id": "javascript-errorhandling"
         },
         {
-          "id": "oop-concepts",
-          "priority": 9
+          "id": "oop-concepts"
         },
         {
-          "id": "nodejs-testing",
-          "priority": 7
+          "id": "nodejs-testing"
         }
       ]
     },
