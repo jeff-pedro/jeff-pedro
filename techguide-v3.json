@@ -25,38 +25,114 @@
       ]
     },
     {
-      "name": "Nivel 2 - Intermediário",
-      "cards": []
-    },
-    {
-      "name": "Nivel 3 - Avançado",
-      "cards": []
-    }
-  ],
-  "collaborations": [
-    {
-      "name": "Lado Esquerdo do T",
+      "name": "Node.js mid",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado Lateral ESQ",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "id": "solid",
+          "priority": 7
         },
         {
-          "id": "apollo-client"
+          "id": "nodejs-express",
+          "priority": 9
+        },
+        {
+          "id": "nodejs-orm",
+          "priority": 8
+        },
+        {
+          "id": "nodejs-authentication-tokens",
+          "priority": 8
+        },
+        {
+          "id": "typescript-fundamentals",
+          "priority": 10
         }
       ]
     },
     {
-      "name": "Lado Direito do T",
-      "cards": []
+      "name": "Node.js in depth",
+      "cards": [
+        {
+          "id": "nestjs-fundamentals",
+          "priority": 8
+        },
+        {
+          "id": "microservices",
+          "priority": 8
+        },
+        {
+          "id": "containers",
+          "priority": 7
+        },
+        {
+          "id": "websockets",
+          "priority": 7
+        },
+        {
+          "id": "graphql",
+          "priority": 6,
+          "optional": true
+        },
+        {
+          "id": "apollo-client",
+          "priority": 6,
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Infraestrutura e boas práticas",
+      "cards": [
+        {
+          "id": "git-and-github-fundamentals",
+          "priority": 10
+        },
+        {
+          "id": "http-fundamentals",
+          "priority": 9
+        },
+        {
+          "id": "design-patterns",
+          "priority": 7
+        },
+        {
+          "id": "command-line-fundamentals",
+          "priority": 7
+        },
+        {
+          "id": "cloud-fundamentals",
+          "priority": 6,
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Front-end",
+      "cards": [
+        {
+          "id": "html-fundamentals",
+          "priority": 10
+        },
+        {
+          "id": "css-fundamentals",
+          "priority": 9
+        },
+        {
+          "id": "dom-fundamentals",
+          "priority": 8
+        },
+        {
+          "id": "javascript-accessibility",
+          "priority": 7
+        },
+        {
+          "id": "seo-strategies",
+          "priority": 6,
+          "optional": true
+        }
+      ]
     }
   ]
 }
