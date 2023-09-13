@@ -5,22 +5,28 @@
       "name": "Node.js Jr",
       "cards": [
         {
-          "id": "javascript-fundamentals"        
+          "id": "javascript-fundamentals",
+          "priority": 10
         },
         {
-          "id": "nodejs-fundamentals"
+          "id": "nodejs-fundamentals",
+          "priority": 10
         },
         {
-          "id": "javascript-callbacks-promises"
+          "id": "javascript-callbacks-promises",
+          "priority": 9
         },
         {
-          "id": "javascript-errorhandling"
+          "id": "javascript-errorhandling",
+          "priority": 7
         },
         {
-          "id": "oop-concepts"
+          "id": "oop-concepts",
+          "priority": 9
         },
         {
-          "id": "nodejs-testing"
+          "id": "nodejs-testing",
+          "priority": 7
         }
       ]
     },
@@ -79,7 +85,27 @@
           "optional": true
         }
       ]
-    }
+    },
+    {
+      "name": "Nivel 4 - Especialista",
+      "cards": [
+        {
+          "name": "Nome do Cartão Customizado",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "id": "nodejs-fundamentals"
+        }
+      ]
+    },
   ],
   "collaborations": [
     {
