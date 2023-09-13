@@ -24,23 +24,23 @@
         }
       ]
     },
-     {
-      "name": "Node.js mid",
+    {
+      "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "id": "solid"
+          "name": "Nome do Cartão Customizado 10",
+          "description": "Descrição do Cartão 2",
+          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
         },
         {
-          "id": "nodejs-express"
-        },
-        {
-          "id": "nodejs-orm"
-        },
-        {
-          "id": "nodejs-authentication-tokens"
-        },
-        {
-          "id":  "typescript-fundamentals"
+          "id": "apollo-client"
         }
       ]
     },
