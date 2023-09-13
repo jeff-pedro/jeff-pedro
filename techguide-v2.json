@@ -13,19 +13,19 @@
           "priority": 10
         },
         {
-          "id": "javascript-callbacks-promises": null,
+          "id": "javascript-callbacks-promises",
           "priority": 9
         },
         {
-          "id": "javascript-errorhandling": null,
+          "id": "javascript-errorhandling",
           "priority": 7
         },
         {
-          "id": "oop-concepts": null,
+          "id": "oop-concepts",
           "priority": 9
         },
         {
-          "id": "nodejs-testing": null,
+          "id": "nodejs-testing",
           "priority": 7
         }
       ]
