@@ -28,24 +28,19 @@
       "name": "Node.js mid",
       "cards": [
         {
-          "id": "solid",
-          "priority": 7
+          "id": "solid"
         },
         {
-          "id": "nodejs-express",
-          "priority": 9
+          "id": "nodejs-express"
         },
         {
-          "id": "nodejs-orm",
-          "priority": 8
+          "id": "nodejs-orm"
         },
         {
-          "id": "nodejs-authentication-tokens",
-          "priority": 8
+          "id": "nodejs-authentication-tokens"
         },
         {
-          "id":  "typescript-fundamentals",
-          "priority": 10
+          "id":  "typescript-fundamentals"
         }
       ]
     },
