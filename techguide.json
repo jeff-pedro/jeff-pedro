@@ -1,75 +1,148 @@
 {
   "name": "Node.js",
-  "expertises": [
+  "tags": [
+    "back-end"
+  ],
+  "expertise": [
     {
-      "name": "Nivel 1 - Básico",
+      "name": "Node.js jr",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado",
-          "description": "Descrição do Cartão",
-          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "javascript-fundamentals": null,
+          "priority": 10
         },
         {
-          "id": "nodejs-fundamentals"
+          "nodejs-fundamentals": null,
+          "priority": 10
+        },
+        {
+          "javascript-callbacks-promises": null,
+          "priority": 9
+        },
+        {
+          "javascript-errorhandling": null,
+          "priority": 7
+        },
+        {
+          "oop-concepts": null,
+          "priority": 9
+        },
+        {
+          "nodejs-testing": null,
+          "priority": 7
         }
       ]
     },
     {
-      "name": "Nivel 2 - Intermediário",
+      "name": "Node.js mid",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado 2",
-          "description": "Descrição do Cartão 2",
-          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "solid": null,
+          "priority": 7
         },
         {
-          "id": "apollo-client"
+          "nodejs-express": null,
+          "priority": 9
+        },
+        {
+          "nodejs-orm": null,
+          "priority": 8
+        },
+        {
+          "nodejs-authentication-tokens": null,
+          "priority": 8
+        },
+        {
+          "typescript-fundamentals": null,
+          "priority": 10
         }
       ]
     },
     {
-      "name": "Nivel 3 - Avançado",
-      "cards": []
+      "name": "Node.js in depth",
+      "cards": [
+        {
+          "nestjs-fundamentals": null,
+          "priority": 8
+        },
+        {
+          "microservices": null,
+          "priority": 8
+        },
+        {
+          "containers": null,
+          "priority": 7
+        },
+        {
+          "websockets": null,
+          "priority": 7
+        },
+        {
+          "graphql": null,
+          "priority": 6,
+          "optional": true
+        },
+        {
+          "apollo-client": null,
+          "priority": 6,
+          "optional": true
+        }
+      ]
     }
   ],
-  "collaborations": [
+  "collaboration": [
     {
-      "name": "Lado Esquerdo do T",
+      "name": "Infraestrutura e boas práticas",
       "cards": [
         {
-          "name": "Nome do Cartão Customizado Lateral ESQ",
-          "description": "Descrição do Cartão 1 Lateral ESQ",
-          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Node.js - Documentation",
-              "link": "https://nodejs.dev/en/learn/"
-            }
-          ]
+          "git-and-github-fundamentals": null,
+          "priority": 10
         },
         {
-          "id": "apollo-client"
+          "http-fundamentals": null,
+          "priority": 9
+        },
+        {
+          "design-patterns": null,
+          "priority": 7
+        },
+        {
+          "command-line-fundamentals": null,
+          "priority": 7
+        },
+        {
+          "cloud-fundamentals": null,
+          "priority": 6,
+          "optional": true
         }
       ]
     },
     {
-      "name": "Lado Direito do T",
-      "cards": []
+      "name": "Front-end",
+      "cards": [
+        {
+          "html-fundamentals": null,
+          "priority": 10
+        },
+        {
+          "css-fundamentals": null,
+          "priority": 9
+        },
+        {
+          "dom-fundamentals": null,
+          "priority": 8
+        },
+        {
+          "javascript-accessibility": null,
+          "priority": 7
+        },
+        {
+          "seo-strategies": null,
+          "priority": 6,
+          "optional": true
+        }
+      ]
     }
-  ]
+  ],
+  "video": "https://www.youtube.com/watch?v=aKtpRRe-AEU&list=PLh2Y_pKOa4UeBQNf1JQzc4SfegYR0gO-N&index=5&ab_channel=Alura"
 }
