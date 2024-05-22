@@ -4,16 +4,19 @@
 - 🌱 I’m currently learning Back-End Programming with NodeJS
 - 😄 Pronouns: he/him
 
-<!-- [![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox)](https://github.com/jeff-pedro/github-readme-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&layout=compact)](https://github.com/jeff-pedro/github-readme-stats)
- -->
-  
-<div class='container'>
+<strong>Github stats</strong>
+
+<div style="display: inline" align="center">
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&custom_title=GitHub%20Stats" />
   <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" />
 </div>
-  
+
+<strong>Skills progress</strong>
+
+<div>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643cb252e2725773748fa9f4?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
 ##
 
 <div> 
