@@ -35,13 +35,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔭 Projects
 
 ### [Jornada Milhas API](https://github.com/jeff-pedro/challenge-backend-jornada-milhas)
-API RestFul para recomendação de destinos de viagem. Foi desenvolvido em Node.js, Nest.js, TypeORM e Postgres.
+A Restful API designed to recommend travel destinations. This project was implemented using Node.js, Nest.js, TypeORM, and Postgres.
 
 ### [Adopet API](https://github.com/jeff-pedro/adopet-api)
-API Restful para site de adoção de animais, desenvolvido em Node.js, Express e Sequelize ORM.
+An API created to support a pet adoption platform, using Node.js, Express, and Sequelize ORM.
 
 ### [Financial Control API](https://github.com/jeff-pedro/project3)
-API Restful de controle pessoal financeiro, onde foi construído com Node.js, Express e Mongoose como ORM.
+This Restful API offers tools for managing personal finances. It was crafted with Node.js and Express, leveraging Mongoose as the ORM.
 
 ## 💬 Let's Connect
 
