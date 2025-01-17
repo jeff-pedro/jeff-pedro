@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" />
 </div>
 
-## 📈 Skill Progress
+## 👨🏽‍💻 Skill Progress
 
 <div align="center">
   <a href="https://roadmap.sh">
