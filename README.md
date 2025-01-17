@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 👨🏽‍💻 Skill Progress
 
-<div align="center">
+<div align="center" style="width: 100%;">
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/643cb252e2725773748fa9f4?variant=dark" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/wide/643cb252e2725773748fa9f4?variant=dark" alt="roadmap.sh" style="width: 100%;"/>
   </a>
 </div>
 
