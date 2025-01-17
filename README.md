@@ -1,4 +1,4 @@
-# Hi there, I'm ( Jeff )<sub>erson</sub> <sub>Pedro</sub>! 👋
+# Hi there, I'm ( Jeff )erson Pedro! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in modern web technologies. Here you'll find a collection of my work, including personal projects, and more.
 
