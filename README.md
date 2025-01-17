@@ -1,21 +1,53 @@
-### Hi there 👋 I'm ( Jeff )<sub>erson</sub> P<sub>edro</sub>
+# Hi there, I'm ( Jeff )<sub>erson</sub> <sub>Pedro</sub>! 👋
 
-- 🔭 I’m currently working on DevOps/Systems Operation
-- 🌱 I’m currently learning Back-End Programming with NodeJS
-- 😄 Pronouns: he/him
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in modern web technologies. Here you'll find a collection of my work, including personal projects, and more.
 
-<strong>Github stats</strong>
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, HTML5, CSS3
+- **Backend:** Node.js, Express, Nest.js, Django
+- **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
+- **DevOps:** Docker, Jenkins, GitHub Actions, Terraform, Ansible
+- **Others:** Git, REST APIs ...
+
+## 🌱 What I'm Currently Learning
+
+- Back-End Programming with Node.js
+- TypeScript, Express, and NestJS
+- Cloud computing with AWS
+
+## 📈 GitHub Stats
 
 <div style="display: inline" align="center">
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jeff-pedro&show_icons=true&bg_color=00000000&theme=gruvbox&custom_title=GitHub%20Stats" />
   <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-pedro&show_icons=true&langs_count=6&bg_color=00000000&theme=gruvbox&layout=compact" />
 </div>
 
-<strong>Skills progress</strong>
+## 📈 Skill Progress
 
-<div>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643cb252e2725773748fa9f4?variant=dark" alt="roadmap.sh"/></a>
+<div align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/643cb252e2725773748fa9f4?variant=dark" alt="roadmap.sh"/>
+  </a>
 </div>
+
+## 🔭 Projects
+
+### [Jornada Milhas API](https://github.com/jeff-pedro/challenge-backend-jornada-milhas)
+API RestFul para recomendação de destinos de viagem. Foi desenvolvido em Node.js, Nest.js, TypeORM e Postgres.
+
+### [Adopet API](https://github.com/jeff-pedro/adopet-api)
+API Restful para site de adoção de animais, desenvolvido em Node.js, Express e Sequelize ORM.
+
+### [Financial Control API](https://github.com/jeff-pedro/project3)
+API Restful de controle pessoal financeiro, onde foi construído com Node.js, Express e Mongoose como ORM.
+
+## 💬 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me through any of the platforms listed above!
+
+Thanks for visiting my profile, and happy coding! 🚀
 
 ##
 
